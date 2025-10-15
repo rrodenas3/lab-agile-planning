@@ -1,0 +1,7 @@
+# Generated visual artefacts
+*.png
+*.pdf
+
+# Python artefacts
+__pycache__/
+*.pyc
